@@ -14,7 +14,7 @@ function myfunction(){
     div1.className ="col-sm-10" 
    div1.style ="text-align:center; margin-top: 2%;font-weight: bold; font-family: system-ui; padding-top:30px; height: 30%; color: rgb(19, 216, 200);margin-bottom: 2%;";
     var heading = document.createElement("h1")
-    heading.innerHTML = "COVID19 INDIA"
+    heading.innerHTML = "COVID-19 INDIA"
     div1.appendChild(heading);
     var div11 = document.createElement("div");
     div11.className ="col-sm-2" 
